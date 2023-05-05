@@ -29,3 +29,6 @@ replay_pid*
 
 # IDEA Config File
 *.iml
+
+# Python
+**/__pycache__
